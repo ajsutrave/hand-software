@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+README.txt
+*~
+license.txt
+RegNet_deploy.prototxt
+RegNet_weights.caffemodel
+*.png
+*.m
+proj_layer_caffe
+.Dockerfile.swp
